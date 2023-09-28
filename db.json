@@ -1,6 +1,10 @@
 {
   "model-comments": [
     {
+      "text": "The product is amazing!",
+      "label": "positive review"
+    },
+    {
       "text": "The order came 5 days early",
       "label": "positive review"
     },

@@ -1,4 +1,4 @@
-# model-ia-comments
+# model-ia-comments ✨
 This is a fake REST API to serve models IA and inputs
 
 ## Getting started
